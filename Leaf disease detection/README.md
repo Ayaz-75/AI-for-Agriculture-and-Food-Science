@@ -45,21 +45,21 @@ Softmax Output (15 classes)
 
 ## 📈 Results
 
-### 🔹 Training Curve
-
-![Training Curve](results/data.png)
-
----
-
 ### 🔹 Sample Predictions
 
 ![Predictions](results/predictions.png)
 
 ---
 
-### 🔹 Confusion Matrix
+### 🔹 Data files
 
-![Confusion Matrix](results/training_loop.png)
+![Data files](results/data.png)
+
+---
+
+### 🔹 Training Loop
+
+![Training Loop](results/training_loop.png)
 
 ---
 
