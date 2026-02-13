@@ -1,4 +1,4 @@
-# 🌿 Plant Disease Classification using CNN
+# 🌿 Leaf Disease Classification using CNN
 
 ## 📌 Objective
 
